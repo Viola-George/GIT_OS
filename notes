@@ -1,0 +1,2 @@
+  git config --local user.name "viola"   
+  git config --local user.email "violageorgekamalmansour@gmail.com"
